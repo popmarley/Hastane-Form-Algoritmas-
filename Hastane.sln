@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hastane.UI", "Hastane.UI\Hastane.UI.csproj", "{E458B4FD-3E97-4AFF-8148-2A3B5EB37652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hastane.Common", "Hastane.Common\Hastane.Common.csproj", "{FCB858A4-F36D-4A3E-BD54-A24C1A383EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E458B4FD-3E97-4AFF-8148-2A3B5EB37652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E458B4FD-3E97-4AFF-8148-2A3B5EB37652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E458B4FD-3E97-4AFF-8148-2A3B5EB37652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E458B4FD-3E97-4AFF-8148-2A3B5EB37652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB858A4-F36D-4A3E-BD54-A24C1A383EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB858A4-F36D-4A3E-BD54-A24C1A383EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB858A4-F36D-4A3E-BD54-A24C1A383EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB858A4-F36D-4A3E-BD54-A24C1A383EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {151F2789-FF5C-4A28-972B-C22B73791D06}
+	EndGlobalSection
+EndGlobal
